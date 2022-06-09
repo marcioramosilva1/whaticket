@@ -220,7 +220,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Marico - v { versionSystem }
+            Marcio - v { versionSystem }
             
           </Typography>
 
